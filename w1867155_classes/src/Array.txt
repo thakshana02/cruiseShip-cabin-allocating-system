@@ -1,0 +1,36 @@
+cabin 0: 1st passenger is empty 
+1st passenger is occupied by dd ss for : Rs 0in cabin0
+cabin 0: 3rd passenger is empty 
+cabin 1: 1st passenger is empty 
+cabin 1: 2nd passenger is empty 
+cabin 1: 3rd passenger is empty 
+1st passenger is occupied by fa fsafas for : Rs 1312123in cabin2
+cabin 2: 2nd passenger is empty 
+cabin 2: 3rd passenger is empty 
+cabin 3: 1st passenger is empty 
+cabin 3: 2nd passenger is empty 
+cabin 3: 3rd passenger is empty 
+cabin 4: 1st passenger is empty 
+cabin 4: 2nd passenger is empty 
+cabin 4: 3rd passenger is empty 
+cabin 5: 1st passenger is empty 
+cabin 5: 2nd passenger is empty 
+cabin 5: 3rd passenger is empty 
+cabin 6: 1st passenger is empty 
+cabin 6: 2nd passenger is empty 
+cabin 6: 3rd passenger is empty 
+cabin 7: 1st passenger is empty 
+cabin 7: 2nd passenger is empty 
+cabin 7: 3rd passenger is empty 
+cabin 8: 1st passenger is empty 
+cabin 8: 2nd passenger is empty 
+cabin 8: 3rd passenger is empty 
+cabin 9: 1st passenger is empty 
+cabin 9: 2nd passenger is empty 
+cabin 9: 3rd passenger is empty 
+cabin 10: 1st passenger is empty 
+cabin 10: 2nd passenger is empty 
+cabin 10: 3rd passenger is empty 
+cabin 11: 1st passenger is empty 
+cabin 11: 2nd passenger is empty 
+cabin 11: 3rd passenger is empty 
